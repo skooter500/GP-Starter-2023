@@ -1,16 +1,25 @@
-# Object Oriented Programming Assignments 2014/2015
+# Game Programming 2023 - Assignment 2
 
-## Assignment 2
+## Instructions
 
-Create a retro-style game to run on this beautiful arcade cabinet. 
+- This is team project for up to 3 people
+- Fork this git repo and use the forked repo to keep track of your work
+- Each team member must make commits on the repo
+- Edit the readme.md file in the forked repo with your documentation (see below)
+
+## Project Brief
+
+The goal of this project is to create a simple, 1 or 2 player retro-style, vector-graphics game in Processing to run on this arcade cabinet. There is starter code in this repo that you should base your project off. The key bindings are stored in a file called arcade.xml. When you run the starter project you will see two squares that can be moved using the keys in the key bindings file.
+
+Important! Your game should be inspired by a scene in a Stanley Kubrick movie
+You can make any game you like. Wacky, far-out, silly ideas that don't work are welcome!
 
 ![Arcade](arcade1.jpg) 
 ![Arcade](arcade2.jpg)
 
-If you need inspiration, check out:
+For inspiration: 
 
 [![Video](http://img.youtube.com/vi/S575a92AsuQ/0.jpg)](http://www.youtube.com/watch?v=S575a92AsuQ)
-
 
 [![Video](http://img.youtube.com/vi/dzN2pgL0zeg/0.jpg)](http://www.youtube.com/watch?v=dzN2pgL0zeg)
 
@@ -23,23 +32,17 @@ If you need inspiration, check out:
 [![Video](http://img.youtube.com/vi/A4e1nr7sApc/0.jpg)](http://www.youtube.com/watch?v=A4e1nr7sApc)
 
 [Vector arcade games on Wikipedia](http://en.wikipedia.org/wiki/Category:Vector_arcade_games)
+
 [Vectrex games](http://en.wikipedia.org/wiki/Category:Vectrex_games)
 
 Also consider downloading [MAME](http://mamedev.org/) and playing some retro games.
 
 I want to bring the cabinet to the State of Play festival and the Project fair with all of your games running on it. You will be able to select the game to play from a menu of all your games. That way 100's of people will see and play your games.  The rules:
 
-- You must include a splash screen with instructions, game screen(s) and a game over screen
-- You must write all the code yourself, though you can take code from the example projects we made in the class. If you use code we developed in the class, you must modify it substantially yourself.
+- You must include a splash screen with instructions, game screen(s) and a game-over screen
 - You should make all the art yourself. I suggest you procedurally draw everything to make a vector graphics style game. 
-- If you are good at drawing, you can make your own sprites as an alternative to procedurally drawing everything
 - Keep in mind the theme for this years Games Fleadh is "Endless Runner" so you might want to make one of these and enter it into Games Fleadh too!
-- You can use the keyboard or mouse to control your game. I haven't figured out how to reprogram the controllers on the arcade cabinet yet, so you should start with the starter code, which loads the keyboard bindings from a properties file. 
-- You should try and use git to manage your source code for the project and submit a link to your git repo. I will look at your git logs to see how much time you have spend on this assignment.
-- You should spend at least 2 full days on the assignment.
-- The assignment is due to be demoed in the lab the week of 26 January.
-
-Alternatively! You can form a team to do an Imagine Cup project, however the rubrick below aplies regardless of what project you decide to do.
+- Each team member must contribute code to the project.
 
 Marks:
 
@@ -48,7 +51,7 @@ Gameplay:30%
 Project management: 20%
 Visuals: 20%
 
-Rubric
+## Rubric
 
 | Grade | Description |
 | ------|-------------|
