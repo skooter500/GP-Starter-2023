@@ -9,7 +9,7 @@
 
 ## Project Brief
 
-The goal of this project is to create a simple, 1 or 2 player retro-style, vector-graphics game in Processing to run on this arcade cabinet. There is starter code in this repo that you should base your project off. The key bindings are stored in a file called arcade.xml. When you run the starter project you will see two squares that can be moved using the keys in the key bindings file.
+The goal of this project is to create a simple, 1 or 2 player retro-style, vector-graphics game or tech-demo using Processing to run on this arcade cabinet. There is starter code in this repo that you should base your project off. The key bindings are stored in a file called arcade.xml. When you run the starter project you will see two squares that can be moved using the keys in the key bindings file.
 
 Important! Your game should be inspired by a scene in a Stanley Kubrick movie
 You can make any game you like. Wacky, far-out, silly ideas that don't work are welcome!
